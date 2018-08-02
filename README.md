@@ -25,6 +25,6 @@ Nut-engine 是一个连珠（15*15五子棋）的AI引擎。
 
 ## License
 
-Copyright (c) 2017 Chijun Sima
+Copyright (c) 2017-2018 Chijun Sima
 
-Licensed under the [Apache License 2.0](http://www.apache.org/licenses/).
+Licensed under the [MIT License](https://opensource.org/licenses/MIT).
